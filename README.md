@@ -117,3 +117,4 @@ IEEE Transactions on Plasma Science, 36.4 (2008): 1790-1798
 [Paper](http://dx.doi.org/10.1109/TPS.2008.927143)
 
 
+![BY-NC-ND](../img/cc.png)
