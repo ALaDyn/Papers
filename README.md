@@ -1,5 +1,11 @@
 # ALaDyn Collaboration Papers
 
+## 2019
+
+- D. Terzani, P. Londrillo,
+A fast and accurate numerical implementation of the envelope model for laser-plasma dynamics,
+Computer Physics Communications (2019)  
+[Paper](https://doi.org/10.1016/j.cpc.2019.04.007)
 
 ## 2018
 
@@ -24,6 +30,12 @@ Nucl. Instr. and Meth. A, in press (2018)
 [Paper](https://doi.org/10.1016/j.nima.2018.01.057)
 
 ## 2017
+
+- P. Tomassini, S. De Nicola, L. Labate, P. Londrillo, R. Fedele, D. Terzani, L. A. Gizzi,
+The resonant multi-pulse ionization injection,
+Physics of Plasmas 24, 103120 (2017)  
+[Paper](https://doi.org/10.1063/1.5000696)
+
 
 - J. Babaei, L. A. Gizzi, P. Londrillo, S. Mirzanejad, T. Rovelli, S. Sinigardi, G. Turchetti,
 Rise time of proton cut-off energy in 2D and 3D PIC simulations,
